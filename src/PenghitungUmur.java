@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * @author Zhar
+ * @author Wisnu
  */
 public class PenghitungUmur extends javax.swing.JFrame {
 
