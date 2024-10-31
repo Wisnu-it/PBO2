@@ -16,7 +16,7 @@ import org.json.JSONObject;
 
 /**
  *
- * @author Zhar
+ * @author Wisnu
  */
 public class PenghitungUmurHelper {
 
